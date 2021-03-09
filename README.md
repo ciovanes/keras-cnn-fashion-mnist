@@ -1,1 +1,1 @@
-# keras-cnn/fashion-mnist
+# keras-cnn-fashion-mnist

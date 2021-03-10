@@ -1,4 +1,3 @@
-<a href="https://github.com"><img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
 # Fashion MNIST CNN with Keras
 Using [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist "Fashion MNIST dataset"). I built a Neural Network who predict random clothes from the dataset. 
 
@@ -9,3 +8,5 @@ Fashion MNIST, is a dataset with Zalando´s articles consisting in -28x28px- ima
 >- [Tensorflow 2.4.1](https://www.tensorflow.org/install?hl=es-419 "Tensorflow 2.4.1")
 >- [Keras 2.4.3](https://keras.io/ "Keras 2.4.3")
 > - [Numpy 1.19.2 or higher](https://numpy.org/devdocs/release/1.19.2-notes.html "Numpy 1.19.2 or higher")
+
+CNN documentation ->[here](http://nooot.co/text/Articles%20and%20videos%20to%20understand%20how%20a%20cnn%20works)

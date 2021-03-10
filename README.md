@@ -1,5 +1,5 @@
 # Fashion MNIST CNN with Keras
-Using [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist "Fashion MNIST dataset"). I built a Neural Network who predict random clothes from the dataset. 
+Using [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist "Fashion MNIST dataset"). I built a Convolutional Neural Network who predict random clothes from the dataset. 
 
 Fashion MNIST, is a dataset with Zalando´s articles consisting in -28x28px- images, 60k for training and 10k for testing, separated in 10 different classes with their labels.
 

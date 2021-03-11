@@ -13,4 +13,3 @@ Fashion MNIST, is a dataset with Zalando´s articles consisting in -28x28px- ima
 
 CNN documentation ->[here](http://nooot.co/text/Articles%20and%20videos%20to%20understand%20how%20a%20cnn%20works)
 
-https://colab.research.google.com/drive/1LkvX3tFIRbeJgJ9eZ42evVsag9nC5wsq?usp=sharing

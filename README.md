@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LkvX3tFIRbeJgJ9eZ42evVsag9nC5wsq?usp=sharing)
 # Fashion MNIST CNN with Keras
 Using [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist "Fashion MNIST dataset"). I built a Convolutional Neural Network who predict random clothes from the dataset. 
 
